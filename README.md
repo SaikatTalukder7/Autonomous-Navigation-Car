@@ -25,6 +25,10 @@ The goal of this project is to design and implement a microcontroller-based syst
 * 2 × 18650 Li-ion Batteries
 
 
+🖼️ Project Diagram
+<p align="center"> <img src="images/diagram.png" alt="Autonomous Navigation Car Diagram" width="500"/> </p>
+
+
 ## 🔌 Pin Configuration
 
 | Component    | Pin Connection | Function                  |
