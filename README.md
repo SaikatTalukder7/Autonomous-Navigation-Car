@@ -26,7 +26,9 @@ The goal of this project is to design and implement a microcontroller-based syst
 
 
 🖼️ Project Diagram
-<p align="center"> <img src="images/diagram.png" alt="Autonomous Navigation Car Diagram" width="500"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaikatTalukder7/Autonomous-Navigation-Car/main/images/diagram.jpg" width="600"/>
+</p>
 
 
 ## 🔌 Pin Configuration
